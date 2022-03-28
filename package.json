@@ -13,5 +13,12 @@
     "coinmarketcap"
   ],
   "author": "Eman Sammut",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-datetime": "^2.1.2",
+    "node-schedule": "^2.1.0",
+    "pg": "^8.7.3",
+    "puppeteer": "^13.5.1"
+  }
 }
