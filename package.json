@@ -1,0 +1,17 @@
+{
+  "name": "crypto-icons-api",
+  "version": "1.0.0",
+  "description": "Crypto Icons API based on CoinMarketCap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "coins",
+    "api",
+    "coinmarketcap"
+  ],
+  "author": "Eman Sammut",
+  "license": "ISC"
+}
